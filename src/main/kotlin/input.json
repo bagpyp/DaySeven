@@ -1,0 +1,8758 @@
+[
+    {
+        "color": "light orange",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 1
+            },
+            {
+                "color": "dim maroon",
+                "count": 3
+            },
+            {
+                "color": "striped green",
+                "count": 5
+            },
+            {
+                "color": "pale aqua",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy bronze",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 3
+            },
+            {
+                "color": "bright turquoise",
+                "count": 5
+            },
+            {
+                "color": "pale orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark coral",
+        "contains": [
+            {
+                "color": "bright lavender",
+                "count": 3
+            },
+            {
+                "color": "pale bronze",
+                "count": 1
+            },
+            {
+                "color": "dull blue",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dim chartreuse",
+        "contains": [
+            {
+                "color": "wavy plum",
+                "count": 2
+            },
+            {
+                "color": "wavy teal",
+                "count": 4
+            },
+            {
+                "color": "dark crimson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped indigo",
+        "contains": [
+            {
+                "color": "posh aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny lavender",
+        "contains": [
+            {
+                "color": "bright yellow",
+                "count": 4
+            },
+            {
+                "color": "muted salmon",
+                "count": 4
+            },
+            {
+                "color": "dull chartreuse",
+                "count": 1
+            },
+            {
+                "color": "dark chartreuse",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "clear gold",
+        "contains": [
+            {
+                "color": "dotted orange",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull maroon",
+        "contains": [
+            {
+                "color": "posh green",
+                "count": 3
+            },
+            {
+                "color": "shiny gold",
+                "count": 1
+            },
+            {
+                "color": "light salmon",
+                "count": 5
+            },
+            {
+                "color": "posh teal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light plum",
+        "contains": [
+            {
+                "color": "striped plum",
+                "count": 1
+            },
+            {
+                "color": "striped cyan",
+                "count": 4
+            },
+            {
+                "color": "light turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh magenta",
+        "contains": [
+            {
+                "color": "drab black",
+                "count": 4
+            },
+            {
+                "color": "shiny violet",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh beige",
+        "contains": [
+            {
+                "color": "dotted maroon",
+                "count": 4
+            },
+            {
+                "color": "dull fuchsia",
+                "count": 4
+            },
+            {
+                "color": "clear teal",
+                "count": 5
+            },
+            {
+                "color": "dull beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored gray",
+        "contains": [
+            {
+                "color": "shiny tomato",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark magenta",
+        "contains": [
+            {
+                "color": "dim brown",
+                "count": 1
+            },
+            {
+                "color": "faded gray",
+                "count": 3
+            },
+            {
+                "color": "dim teal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "plaid teal",
+        "contains": [
+            {
+                "color": "mirrored indigo",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "shiny bronze",
+        "contains": [
+            {
+                "color": "clear orange",
+                "count": 3
+            },
+            {
+                "color": "vibrant coral",
+                "count": 2
+            },
+            {
+                "color": "pale olive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted aqua",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 2
+            },
+            {
+                "color": "dotted beige",
+                "count": 4
+            },
+            {
+                "color": "pale turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dark olive",
+        "contains": [
+            {
+                "color": "dotted tomato",
+                "count": 2
+            },
+            {
+                "color": "drab coral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear lime",
+        "contains": [
+            {
+                "color": "striped crimson",
+                "count": 4
+            },
+            {
+                "color": "mirrored fuchsia",
+                "count": 5
+            },
+            {
+                "color": "striped chartreuse",
+                "count": 2
+            },
+            {
+                "color": "wavy aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh bronze",
+        "contains": [
+            {
+                "color": "dotted green",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny cyan",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 5
+            },
+            {
+                "color": "light orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant silver",
+        "contains": [
+            {
+                "color": "drab coral",
+                "count": 1
+            },
+            {
+                "color": "dull olive",
+                "count": 2
+            },
+            {
+                "color": "clear brown",
+                "count": 3
+            },
+            {
+                "color": "bright violet",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "mirrored red",
+        "contains": [
+            {
+                "color": "dim beige",
+                "count": 1
+            },
+            {
+                "color": "vibrant salmon",
+                "count": 5
+            },
+            {
+                "color": "muted bronze",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "striped bronze",
+        "contains": [
+            {
+                "color": "clear cyan",
+                "count": 3
+            },
+            {
+                "color": "wavy purple",
+                "count": 4
+            },
+            {
+                "color": "pale orange",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale gold",
+        "contains": [
+            {
+                "color": "light cyan",
+                "count": 5
+            },
+            {
+                "color": "dim gray",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped purple",
+        "contains": [
+            {
+                "color": "clear gray",
+                "count": 3
+            },
+            {
+                "color": "plaid tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted orange",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 3
+            },
+            {
+                "color": "light orange",
+                "count": 1
+            },
+            {
+                "color": "light lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "clear gray",
+        "contains": [
+            {
+                "color": "plaid aqua",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull red",
+        "contains": [
+            {
+                "color": "mirrored blue",
+                "count": 1
+            },
+            {
+                "color": "bright lavender",
+                "count": 5
+            },
+            {
+                "color": "wavy aqua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted tomato",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 5
+            },
+            {
+                "color": "clear beige",
+                "count": 2
+            },
+            {
+                "color": "drab yellow",
+                "count": 4
+            },
+            {
+                "color": "dark crimson",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "wavy maroon",
+        "contains": [
+            {
+                "color": "faded cyan",
+                "count": 1
+            },
+            {
+                "color": "dim brown",
+                "count": 3
+            },
+            {
+                "color": "striped magenta",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid turquoise",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 4
+            },
+            {
+                "color": "plaid fuchsia",
+                "count": 4
+            },
+            {
+                "color": "muted cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "clear tomato",
+        "contains": [
+            {
+                "color": "pale bronze",
+                "count": 1
+            },
+            {
+                "color": "plaid indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale magenta",
+        "contains": [
+            {
+                "color": "striped black",
+                "count": 4
+            },
+            {
+                "color": "shiny orange",
+                "count": 3
+            },
+            {
+                "color": "vibrant teal",
+                "count": 1
+            },
+            {
+                "color": "plaid olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dull purple",
+        "contains": [
+            {
+                "color": "pale silver",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright fuchsia",
+        "contains": []
+    },
+    {
+        "color": "striped beige",
+        "contains": [
+            {
+                "color": "dotted aqua",
+                "count": 1
+            },
+            {
+                "color": "wavy teal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim tomato",
+        "contains": [
+            {
+                "color": "dim gray",
+                "count": 2
+            },
+            {
+                "color": "faded bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted coral",
+        "contains": [
+            {
+                "color": "faded gold",
+                "count": 3
+            },
+            {
+                "color": "drab tomato",
+                "count": 3
+            },
+            {
+                "color": "dark crimson",
+                "count": 1
+            },
+            {
+                "color": "wavy purple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant bronze",
+        "contains": [
+            {
+                "color": "dim fuchsia",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dark white",
+        "contains": [
+            {
+                "color": "dotted tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "bright teal",
+        "contains": [
+            {
+                "color": "posh tan",
+                "count": 3
+            },
+            {
+                "color": "dark bronze",
+                "count": 4
+            },
+            {
+                "color": "striped white",
+                "count": 3
+            },
+            {
+                "color": "dotted silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped silver",
+        "contains": [
+            {
+                "color": "vibrant salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid crimson",
+        "contains": [
+            {
+                "color": "striped beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped white",
+        "contains": [
+            {
+                "color": "posh tan",
+                "count": 5
+            },
+            {
+                "color": "dull aqua",
+                "count": 3
+            },
+            {
+                "color": "pale black",
+                "count": 5
+            },
+            {
+                "color": "plaid gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped green",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 3
+            },
+            {
+                "color": "light lime",
+                "count": 4
+            },
+            {
+                "color": "dark crimson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant violet",
+        "contains": [
+            {
+                "color": "plaid cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "muted silver",
+        "contains": [
+            {
+                "color": "dim coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "posh gray",
+        "contains": [
+            {
+                "color": "clear tan",
+                "count": 1
+            },
+            {
+                "color": "light crimson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted beige",
+        "contains": [
+            {
+                "color": "drab tomato",
+                "count": 4
+            },
+            {
+                "color": "dull aqua",
+                "count": 2
+            },
+            {
+                "color": "pale tomato",
+                "count": 3
+            },
+            {
+                "color": "drab coral",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "faded salmon",
+        "contains": [
+            {
+                "color": "striped lime",
+                "count": 4
+            },
+            {
+                "color": "posh cyan",
+                "count": 4
+            },
+            {
+                "color": "wavy orange",
+                "count": 2
+            },
+            {
+                "color": "dull lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh lavender",
+        "contains": [
+            {
+                "color": "faded coral",
+                "count": 4
+            },
+            {
+                "color": "mirrored cyan",
+                "count": 2
+            },
+            {
+                "color": "drab cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "shiny tan",
+        "contains": [
+            {
+                "color": "dotted orange",
+                "count": 3
+            },
+            {
+                "color": "dim brown",
+                "count": 4
+            },
+            {
+                "color": "dull silver",
+                "count": 4
+            },
+            {
+                "color": "plaid orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant gray",
+        "contains": [
+            {
+                "color": "clear yellow",
+                "count": 1
+            },
+            {
+                "color": "mirrored indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright crimson",
+        "contains": [
+            {
+                "color": "drab orange",
+                "count": 2
+            },
+            {
+                "color": "drab lavender",
+                "count": 1
+            },
+            {
+                "color": "dull black",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "muted black",
+        "contains": [
+            {
+                "color": "dark chartreuse",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant orange",
+        "contains": [
+            {
+                "color": "dull salmon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh tomato",
+        "contains": [
+            {
+                "color": "dull coral",
+                "count": 1
+            },
+            {
+                "color": "drab salmon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light brown",
+        "contains": []
+    },
+    {
+        "color": "shiny green",
+        "contains": [
+            {
+                "color": "light crimson",
+                "count": 1
+            },
+            {
+                "color": "shiny purple",
+                "count": 3
+            },
+            {
+                "color": "bright turquoise",
+                "count": 5
+            },
+            {
+                "color": "light brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh blue",
+        "contains": [
+            {
+                "color": "mirrored lavender",
+                "count": 2
+            },
+            {
+                "color": "posh turquoise",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull lavender",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded magenta",
+        "contains": [
+            {
+                "color": "dull beige",
+                "count": 3
+            },
+            {
+                "color": "light plum",
+                "count": 3
+            },
+            {
+                "color": "mirrored turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid tan",
+        "contains": [
+            {
+                "color": "shiny purple",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid green",
+        "contains": [
+            {
+                "color": "shiny brown",
+                "count": 3
+            },
+            {
+                "color": "clear brown",
+                "count": 3
+            },
+            {
+                "color": "posh brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale red",
+        "contains": [
+            {
+                "color": "dim violet",
+                "count": 2
+            },
+            {
+                "color": "clear tan",
+                "count": 1
+            },
+            {
+                "color": "shiny aqua",
+                "count": 1
+            },
+            {
+                "color": "muted cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull olive",
+        "contains": [
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            },
+            {
+                "color": "faded cyan",
+                "count": 2
+            },
+            {
+                "color": "striped crimson",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dotted gray",
+        "contains": [
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            },
+            {
+                "color": "drab tomato",
+                "count": 2
+            },
+            {
+                "color": "shiny violet",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted plum",
+        "contains": [
+            {
+                "color": "muted magenta",
+                "count": 1
+            },
+            {
+                "color": "dark yellow",
+                "count": 4
+            },
+            {
+                "color": "clear aqua",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim coral",
+        "contains": [
+            {
+                "color": "shiny gold",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light white",
+        "contains": [
+            {
+                "color": "shiny aqua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim yellow",
+        "contains": [
+            {
+                "color": "dotted teal",
+                "count": 1
+            },
+            {
+                "color": "striped orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped lavender",
+        "contains": [
+            {
+                "color": "faded silver",
+                "count": 2
+            },
+            {
+                "color": "dim lime",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "light turquoise",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 5
+            },
+            {
+                "color": "clear brown",
+                "count": 2
+            },
+            {
+                "color": "drab yellow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny yellow",
+        "contains": [
+            {
+                "color": "drab red",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid maroon",
+        "contains": [
+            {
+                "color": "wavy orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear beige",
+        "contains": [
+            {
+                "color": "wavy teal",
+                "count": 4
+            },
+            {
+                "color": "wavy purple",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dull fuchsia",
+        "contains": [
+            {
+                "color": "wavy lime",
+                "count": 1
+            },
+            {
+                "color": "faded turquoise",
+                "count": 3
+            },
+            {
+                "color": "dotted blue",
+                "count": 2
+            },
+            {
+                "color": "dull lavender",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale black",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant blue",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 2
+            },
+            {
+                "color": "dotted aqua",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant tan",
+        "contains": [
+            {
+                "color": "clear tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear silver",
+        "contains": [
+            {
+                "color": "drab lavender",
+                "count": 1
+            },
+            {
+                "color": "dotted green",
+                "count": 5
+            },
+            {
+                "color": "muted lavender",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "mirrored plum",
+        "contains": [
+            {
+                "color": "dim yellow",
+                "count": 4
+            },
+            {
+                "color": "wavy lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale crimson",
+        "contains": [
+            {
+                "color": "shiny gold",
+                "count": 5
+            },
+            {
+                "color": "striped chartreuse",
+                "count": 2
+            },
+            {
+                "color": "bright brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded chartreuse",
+        "contains": [
+            {
+                "color": "drab teal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid plum",
+        "contains": [
+            {
+                "color": "light turquoise",
+                "count": 5
+            },
+            {
+                "color": "muted indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant indigo",
+        "contains": [
+            {
+                "color": "striped tan",
+                "count": 3
+            },
+            {
+                "color": "striped crimson",
+                "count": 3
+            },
+            {
+                "color": "clear olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted turquoise",
+        "contains": [
+            {
+                "color": "pale brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted brown",
+        "contains": [
+            {
+                "color": "light chartreuse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored black",
+        "contains": [
+            {
+                "color": "striped black",
+                "count": 3
+            },
+            {
+                "color": "dotted beige",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "faded silver",
+        "contains": [
+            {
+                "color": "dull violet",
+                "count": 5
+            },
+            {
+                "color": "bright salmon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted blue",
+        "contains": [
+            {
+                "color": "light beige",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded maroon",
+        "contains": [
+            {
+                "color": "wavy tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale purple",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 3
+            },
+            {
+                "color": "shiny orange",
+                "count": 3
+            },
+            {
+                "color": "striped orange",
+                "count": 3
+            },
+            {
+                "color": "striped chartreuse",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted white",
+        "contains": [
+            {
+                "color": "posh chartreuse",
+                "count": 1
+            },
+            {
+                "color": "dim silver",
+                "count": 1
+            },
+            {
+                "color": "posh bronze",
+                "count": 4
+            },
+            {
+                "color": "striped black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy violet",
+        "contains": [
+            {
+                "color": "posh yellow",
+                "count": 4
+            },
+            {
+                "color": "wavy gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "wavy silver",
+        "contains": [
+            {
+                "color": "plaid gray",
+                "count": 2
+            },
+            {
+                "color": "muted bronze",
+                "count": 3
+            },
+            {
+                "color": "pale magenta",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull blue",
+        "contains": [
+            {
+                "color": "pale silver",
+                "count": 4
+            },
+            {
+                "color": "mirrored white",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "mirrored gold",
+        "contains": [
+            {
+                "color": "striped bronze",
+                "count": 5
+            },
+            {
+                "color": "dotted orange",
+                "count": 1
+            },
+            {
+                "color": "clear black",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark silver",
+        "contains": [
+            {
+                "color": "plaid aqua",
+                "count": 2
+            },
+            {
+                "color": "dim purple",
+                "count": 3
+            },
+            {
+                "color": "shiny maroon",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped olive",
+        "contains": [
+            {
+                "color": "vibrant coral",
+                "count": 2
+            },
+            {
+                "color": "clear beige",
+                "count": 2
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright cyan",
+        "contains": [
+            {
+                "color": "faded orange",
+                "count": 4
+            },
+            {
+                "color": "dim maroon",
+                "count": 2
+            },
+            {
+                "color": "pale chartreuse",
+                "count": 3
+            },
+            {
+                "color": "wavy plum",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale salmon",
+        "contains": [
+            {
+                "color": "faded maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid orange",
+        "contains": [
+            {
+                "color": "plaid cyan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "plaid salmon",
+        "contains": [
+            {
+                "color": "clear gray",
+                "count": 2
+            },
+            {
+                "color": "drab tan",
+                "count": 4
+            },
+            {
+                "color": "clear beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "muted turquoise",
+        "contains": [
+            {
+                "color": "mirrored teal",
+                "count": 4
+            },
+            {
+                "color": "wavy bronze",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim black",
+        "contains": [
+            {
+                "color": "drab violet",
+                "count": 1
+            },
+            {
+                "color": "pale bronze",
+                "count": 5
+            },
+            {
+                "color": "dark tomato",
+                "count": 2
+            },
+            {
+                "color": "dull turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy lime",
+        "contains": [
+            {
+                "color": "dim lime",
+                "count": 1
+            },
+            {
+                "color": "wavy cyan",
+                "count": 1
+            },
+            {
+                "color": "mirrored lavender",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy blue",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy turquoise",
+        "contains": [
+            {
+                "color": "light black",
+                "count": 5
+            },
+            {
+                "color": "plaid green",
+                "count": 2
+            },
+            {
+                "color": "clear gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted teal",
+        "contains": [
+            {
+                "color": "plaid indigo",
+                "count": 4
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            },
+            {
+                "color": "pale lavender",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "shiny tomato",
+        "contains": [
+            {
+                "color": "clear beige",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded cyan",
+        "contains": []
+    },
+    {
+        "color": "bright yellow",
+        "contains": [
+            {
+                "color": "shiny tan",
+                "count": 1
+            },
+            {
+                "color": "light black",
+                "count": 5
+            },
+            {
+                "color": "clear olive",
+                "count": 3
+            },
+            {
+                "color": "drab turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light salmon",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 1
+            },
+            {
+                "color": "wavy cyan",
+                "count": 1
+            },
+            {
+                "color": "pale tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab cyan",
+        "contains": [
+            {
+                "color": "drab aqua",
+                "count": 4
+            },
+            {
+                "color": "mirrored cyan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant plum",
+        "contains": [
+            {
+                "color": "striped blue",
+                "count": 5
+            },
+            {
+                "color": "drab lime",
+                "count": 3
+            },
+            {
+                "color": "dull turquoise",
+                "count": 3
+            },
+            {
+                "color": "dotted red",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded lime",
+        "contains": [
+            {
+                "color": "shiny teal",
+                "count": 5
+            },
+            {
+                "color": "posh purple",
+                "count": 3
+            },
+            {
+                "color": "dim aqua",
+                "count": 4
+            },
+            {
+                "color": "plaid white",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull gray",
+        "contains": [
+            {
+                "color": "wavy fuchsia",
+                "count": 5
+            },
+            {
+                "color": "dark yellow",
+                "count": 3
+            },
+            {
+                "color": "striped tan",
+                "count": 4
+            },
+            {
+                "color": "dark olive",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant lime",
+        "contains": [
+            {
+                "color": "vibrant violet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant chartreuse",
+        "contains": [
+            {
+                "color": "mirrored aqua",
+                "count": 3
+            },
+            {
+                "color": "vibrant white",
+                "count": 2
+            },
+            {
+                "color": "dotted orange",
+                "count": 2
+            },
+            {
+                "color": "faded beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dim fuchsia",
+        "contains": [
+            {
+                "color": "clear brown",
+                "count": 1
+            },
+            {
+                "color": "clear magenta",
+                "count": 3
+            },
+            {
+                "color": "muted beige",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid fuchsia",
+        "contains": [
+            {
+                "color": "plaid blue",
+                "count": 2
+            },
+            {
+                "color": "dark violet",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale lime",
+        "contains": [
+            {
+                "color": "wavy purple",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy aqua",
+        "contains": [
+            {
+                "color": "dotted red",
+                "count": 1
+            },
+            {
+                "color": "plaid tan",
+                "count": 1
+            },
+            {
+                "color": "light purple",
+                "count": 5
+            },
+            {
+                "color": "shiny green",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "shiny silver",
+        "contains": [
+            {
+                "color": "wavy purple",
+                "count": 4
+            },
+            {
+                "color": "dark violet",
+                "count": 3
+            },
+            {
+                "color": "drab yellow",
+                "count": 4
+            },
+            {
+                "color": "faded cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted lavender",
+        "contains": [
+            {
+                "color": "dim gold",
+                "count": 1
+            },
+            {
+                "color": "clear yellow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped red",
+        "contains": [
+            {
+                "color": "striped maroon",
+                "count": 1
+            },
+            {
+                "color": "dim silver",
+                "count": 3
+            },
+            {
+                "color": "dim lavender",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "faded bronze",
+        "contains": [
+            {
+                "color": "dark olive",
+                "count": 2
+            },
+            {
+                "color": "mirrored lavender",
+                "count": 3
+            },
+            {
+                "color": "light tan",
+                "count": 5
+            },
+            {
+                "color": "faded cyan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored indigo",
+        "contains": [
+            {
+                "color": "posh olive",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted salmon",
+        "contains": [
+            {
+                "color": "plaid silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted purple",
+        "contains": [
+            {
+                "color": "shiny violet",
+                "count": 2
+            },
+            {
+                "color": "plaid olive",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh fuchsia",
+        "contains": [
+            {
+                "color": "mirrored indigo",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "shiny indigo",
+        "contains": [
+            {
+                "color": "dim turquoise",
+                "count": 3
+            },
+            {
+                "color": "dark maroon",
+                "count": 2
+            },
+            {
+                "color": "vibrant tomato",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab green",
+        "contains": [
+            {
+                "color": "dull salmon",
+                "count": 1
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark tomato",
+        "contains": [
+            {
+                "color": "faded orange",
+                "count": 2
+            },
+            {
+                "color": "wavy indigo",
+                "count": 5
+            },
+            {
+                "color": "dotted red",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright black",
+        "contains": [
+            {
+                "color": "bright salmon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh yellow",
+        "contains": [
+            {
+                "color": "pale chartreuse",
+                "count": 5
+            },
+            {
+                "color": "clear cyan",
+                "count": 2
+            },
+            {
+                "color": "muted bronze",
+                "count": 3
+            },
+            {
+                "color": "light tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "light crimson",
+        "contains": [
+            {
+                "color": "dark violet",
+                "count": 4
+            },
+            {
+                "color": "striped crimson",
+                "count": 4
+            },
+            {
+                "color": "clear tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted indigo",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 5
+            },
+            {
+                "color": "dark violet",
+                "count": 4
+            },
+            {
+                "color": "light purple",
+                "count": 4
+            },
+            {
+                "color": "dotted gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dark green",
+        "contains": [
+            {
+                "color": "posh brown",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "pale chartreuse",
+        "contains": [
+            {
+                "color": "bright turquoise",
+                "count": 5
+            },
+            {
+                "color": "light purple",
+                "count": 5
+            },
+            {
+                "color": "clear tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear red",
+        "contains": [
+            {
+                "color": "vibrant aqua",
+                "count": 2
+            },
+            {
+                "color": "clear brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded purple",
+        "contains": [
+            {
+                "color": "dim gray",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark gray",
+        "contains": [
+            {
+                "color": "shiny maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab aqua",
+        "contains": [
+            {
+                "color": "dull aqua",
+                "count": 4
+            },
+            {
+                "color": "striped tan",
+                "count": 5
+            },
+            {
+                "color": "mirrored indigo",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted coral",
+        "contains": [
+            {
+                "color": "plaid fuchsia",
+                "count": 3
+            },
+            {
+                "color": "drab coral",
+                "count": 5
+            },
+            {
+                "color": "dull aqua",
+                "count": 1
+            },
+            {
+                "color": "light tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim red",
+        "contains": [
+            {
+                "color": "shiny purple",
+                "count": 5
+            },
+            {
+                "color": "posh olive",
+                "count": 3
+            },
+            {
+                "color": "clear turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted gray",
+        "contains": [
+            {
+                "color": "clear lavender",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored purple",
+        "contains": [
+            {
+                "color": "faded salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "wavy cyan",
+        "contains": [
+            {
+                "color": "plaid aqua",
+                "count": 2
+            },
+            {
+                "color": "dotted tomato",
+                "count": 5
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            },
+            {
+                "color": "clear tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "faded coral",
+        "contains": [
+            {
+                "color": "wavy tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh chartreuse",
+        "contains": [
+            {
+                "color": "dark green",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light blue",
+        "contains": [
+            {
+                "color": "dotted orange",
+                "count": 5
+            },
+            {
+                "color": "striped orange",
+                "count": 2
+            },
+            {
+                "color": "faded bronze",
+                "count": 3
+            },
+            {
+                "color": "dim maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "mirrored lime",
+        "contains": [
+            {
+                "color": "drab lime",
+                "count": 5
+            },
+            {
+                "color": "drab aqua",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid purple",
+        "contains": [
+            {
+                "color": "dull orange",
+                "count": 5
+            },
+            {
+                "color": "faded aqua",
+                "count": 4
+            },
+            {
+                "color": "vibrant white",
+                "count": 4
+            },
+            {
+                "color": "muted cyan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy green",
+        "contains": [
+            {
+                "color": "clear yellow",
+                "count": 1
+            },
+            {
+                "color": "striped crimson",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid gray",
+        "contains": [
+            {
+                "color": "pale chartreuse",
+                "count": 5
+            },
+            {
+                "color": "dull plum",
+                "count": 1
+            },
+            {
+                "color": "dark chartreuse",
+                "count": 1
+            },
+            {
+                "color": "clear lime",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab salmon",
+        "contains": [
+            {
+                "color": "vibrant tomato",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull gold",
+        "contains": [
+            {
+                "color": "dim green",
+                "count": 3
+            },
+            {
+                "color": "dim red",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim turquoise",
+        "contains": [
+            {
+                "color": "light olive",
+                "count": 2
+            },
+            {
+                "color": "dark salmon",
+                "count": 1
+            },
+            {
+                "color": "drab yellow",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright turquoise",
+        "contains": [
+            {
+                "color": "wavy blue",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted yellow",
+        "contains": [
+            {
+                "color": "mirrored turquoise",
+                "count": 1
+            },
+            {
+                "color": "clear coral",
+                "count": 1
+            },
+            {
+                "color": "wavy magenta",
+                "count": 3
+            },
+            {
+                "color": "plaid chartreuse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "drab yellow",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 3
+            },
+            {
+                "color": "clear brown",
+                "count": 4
+            },
+            {
+                "color": "pale black",
+                "count": 2
+            },
+            {
+                "color": "light brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark blue",
+        "contains": [
+            {
+                "color": "pale purple",
+                "count": 2
+            },
+            {
+                "color": "wavy turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "pale orange",
+        "contains": [
+            {
+                "color": "light lime",
+                "count": 2
+            },
+            {
+                "color": "dotted aqua",
+                "count": 5
+            },
+            {
+                "color": "pale black",
+                "count": 4
+            },
+            {
+                "color": "clear beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "posh indigo",
+        "contains": [
+            {
+                "color": "clear crimson",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted lavender",
+        "contains": [
+            {
+                "color": "pale cyan",
+                "count": 5
+            },
+            {
+                "color": "plaid olive",
+                "count": 5
+            },
+            {
+                "color": "dull purple",
+                "count": 5
+            },
+            {
+                "color": "light tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored magenta",
+        "contains": [
+            {
+                "color": "dim lime",
+                "count": 5
+            },
+            {
+                "color": "mirrored gold",
+                "count": 1
+            },
+            {
+                "color": "dotted gray",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear green",
+        "contains": [
+            {
+                "color": "muted bronze",
+                "count": 3
+            },
+            {
+                "color": "pale coral",
+                "count": 5
+            },
+            {
+                "color": "light tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "muted purple",
+        "contains": [
+            {
+                "color": "pale olive",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark black",
+        "contains": [
+            {
+                "color": "dull lavender",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim tan",
+        "contains": [
+            {
+                "color": "muted bronze",
+                "count": 4
+            },
+            {
+                "color": "drab fuchsia",
+                "count": 5
+            },
+            {
+                "color": "shiny violet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim brown",
+        "contains": [
+            {
+                "color": "bright violet",
+                "count": 5
+            },
+            {
+                "color": "wavy orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid red",
+        "contains": [
+            {
+                "color": "clear tan",
+                "count": 1
+            },
+            {
+                "color": "dark olive",
+                "count": 1
+            },
+            {
+                "color": "vibrant blue",
+                "count": 5
+            },
+            {
+                "color": "shiny gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright red",
+        "contains": [
+            {
+                "color": "mirrored bronze",
+                "count": 2
+            },
+            {
+                "color": "vibrant crimson",
+                "count": 3
+            },
+            {
+                "color": "light salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright white",
+        "contains": [
+            {
+                "color": "vibrant magenta",
+                "count": 4
+            },
+            {
+                "color": "clear cyan",
+                "count": 3
+            },
+            {
+                "color": "drab red",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "striped teal",
+        "contains": [
+            {
+                "color": "posh silver",
+                "count": 5
+            },
+            {
+                "color": "clear green",
+                "count": 2
+            },
+            {
+                "color": "clear teal",
+                "count": 1
+            },
+            {
+                "color": "pale cyan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale tan",
+        "contains": [
+            {
+                "color": "dark silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light olive",
+        "contains": [
+            {
+                "color": "dotted aqua",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped tomato",
+        "contains": [
+            {
+                "color": "clear white",
+                "count": 2
+            },
+            {
+                "color": "bright lavender",
+                "count": 2
+            },
+            {
+                "color": "vibrant silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light lavender",
+        "contains": [
+            {
+                "color": "plaid gray",
+                "count": 5
+            },
+            {
+                "color": "dull cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear salmon",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 3
+            },
+            {
+                "color": "clear brown",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted fuchsia",
+        "contains": [
+            {
+                "color": "drab olive",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark lavender",
+        "contains": [
+            {
+                "color": "drab gray",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light indigo",
+        "contains": [
+            {
+                "color": "wavy chartreuse",
+                "count": 2
+            },
+            {
+                "color": "wavy teal",
+                "count": 5
+            },
+            {
+                "color": "shiny violet",
+                "count": 3
+            },
+            {
+                "color": "light lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded gray",
+        "contains": [
+            {
+                "color": "light orange",
+                "count": 4
+            },
+            {
+                "color": "posh white",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant olive",
+        "contains": [
+            {
+                "color": "bright turquoise",
+                "count": 2
+            },
+            {
+                "color": "wavy aqua",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark chartreuse",
+        "contains": [
+            {
+                "color": "dark maroon",
+                "count": 1
+            },
+            {
+                "color": "shiny gold",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim salmon",
+        "contains": [
+            {
+                "color": "faded crimson",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "shiny coral",
+        "contains": [
+            {
+                "color": "vibrant beige",
+                "count": 1
+            },
+            {
+                "color": "striped tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim green",
+        "contains": [
+            {
+                "color": "dull brown",
+                "count": 2
+            },
+            {
+                "color": "light aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh black",
+        "contains": [
+            {
+                "color": "light indigo",
+                "count": 1
+            },
+            {
+                "color": "wavy yellow",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "light beige",
+        "contains": [
+            {
+                "color": "drab beige",
+                "count": 1
+            },
+            {
+                "color": "shiny cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark fuchsia",
+        "contains": [
+            {
+                "color": "bright aqua",
+                "count": 3
+            },
+            {
+                "color": "pale lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright tan",
+        "contains": [
+            {
+                "color": "drab magenta",
+                "count": 3
+            },
+            {
+                "color": "vibrant lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "plaid yellow",
+        "contains": [
+            {
+                "color": "dull turquoise",
+                "count": 5
+            },
+            {
+                "color": "light brown",
+                "count": 2
+            },
+            {
+                "color": "faded bronze",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid black",
+        "contains": [
+            {
+                "color": "muted magenta",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy magenta",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid olive",
+        "contains": [
+            {
+                "color": "clear tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull crimson",
+        "contains": [
+            {
+                "color": "plaid brown",
+                "count": 4
+            },
+            {
+                "color": "bright silver",
+                "count": 1
+            },
+            {
+                "color": "vibrant silver",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "vibrant white",
+        "contains": [
+            {
+                "color": "vibrant plum",
+                "count": 3
+            },
+            {
+                "color": "drab fuchsia",
+                "count": 2
+            },
+            {
+                "color": "dotted tan",
+                "count": 5
+            },
+            {
+                "color": "striped black",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "pale tomato",
+        "contains": [
+            {
+                "color": "wavy tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull indigo",
+        "contains": [
+            {
+                "color": "dim teal",
+                "count": 3
+            },
+            {
+                "color": "drab coral",
+                "count": 3
+            },
+            {
+                "color": "striped orange",
+                "count": 5
+            },
+            {
+                "color": "dull violet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded teal",
+        "contains": [
+            {
+                "color": "dotted orange",
+                "count": 4
+            },
+            {
+                "color": "plaid blue",
+                "count": 3
+            },
+            {
+                "color": "mirrored blue",
+                "count": 1
+            },
+            {
+                "color": "vibrant blue",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark bronze",
+        "contains": [
+            {
+                "color": "dull aqua",
+                "count": 5
+            },
+            {
+                "color": "pale tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid bronze",
+        "contains": [
+            {
+                "color": "light maroon",
+                "count": 3
+            },
+            {
+                "color": "dim brown",
+                "count": 4
+            },
+            {
+                "color": "plaid blue",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted aqua",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 4
+            },
+            {
+                "color": "wavy tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "shiny salmon",
+        "contains": [
+            {
+                "color": "light fuchsia",
+                "count": 4
+            },
+            {
+                "color": "clear orange",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded crimson",
+        "contains": [
+            {
+                "color": "pale tan",
+                "count": 4
+            },
+            {
+                "color": "drab olive",
+                "count": 5
+            },
+            {
+                "color": "shiny cyan",
+                "count": 5
+            },
+            {
+                "color": "muted crimson",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dotted bronze",
+        "contains": [
+            {
+                "color": "muted crimson",
+                "count": 4
+            },
+            {
+                "color": "posh silver",
+                "count": 2
+            },
+            {
+                "color": "faded cyan",
+                "count": 5
+            },
+            {
+                "color": "muted teal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant salmon",
+        "contains": [
+            {
+                "color": "plaid indigo",
+                "count": 2
+            },
+            {
+                "color": "light tomato",
+                "count": 4
+            },
+            {
+                "color": "pale aqua",
+                "count": 3
+            },
+            {
+                "color": "dotted brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny violet",
+        "contains": [
+            {
+                "color": "dull aqua",
+                "count": 1
+            },
+            {
+                "color": "light brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright chartreuse",
+        "contains": [
+            {
+                "color": "light tomato",
+                "count": 3
+            },
+            {
+                "color": "dotted teal",
+                "count": 3
+            },
+            {
+                "color": "dim brown",
+                "count": 1
+            },
+            {
+                "color": "muted chartreuse",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid indigo",
+        "contains": [
+            {
+                "color": "posh blue",
+                "count": 5
+            },
+            {
+                "color": "posh brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored aqua",
+        "contains": [
+            {
+                "color": "muted lavender",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh salmon",
+        "contains": [
+            {
+                "color": "mirrored black",
+                "count": 1
+            },
+            {
+                "color": "dim violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid white",
+        "contains": [
+            {
+                "color": "light blue",
+                "count": 1
+            },
+            {
+                "color": "striped black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded white",
+        "contains": [
+            {
+                "color": "mirrored blue",
+                "count": 5
+            },
+            {
+                "color": "vibrant gold",
+                "count": 5
+            },
+            {
+                "color": "striped lime",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "shiny chartreuse",
+        "contains": [
+            {
+                "color": "faded yellow",
+                "count": 2
+            },
+            {
+                "color": "shiny green",
+                "count": 2
+            },
+            {
+                "color": "mirrored cyan",
+                "count": 2
+            },
+            {
+                "color": "dim coral",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim orange",
+        "contains": [
+            {
+                "color": "light maroon",
+                "count": 2
+            },
+            {
+                "color": "bright brown",
+                "count": 5
+            },
+            {
+                "color": "dark maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored tan",
+        "contains": [
+            {
+                "color": "clear olive",
+                "count": 4
+            },
+            {
+                "color": "light orange",
+                "count": 4
+            },
+            {
+                "color": "shiny gray",
+                "count": 2
+            },
+            {
+                "color": "light brown",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped tan",
+        "contains": [
+            {
+                "color": "drab red",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale silver",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 4
+            },
+            {
+                "color": "dull silver",
+                "count": 5
+            },
+            {
+                "color": "muted yellow",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "pale turquoise",
+        "contains": [
+            {
+                "color": "muted black",
+                "count": 5
+            },
+            {
+                "color": "bright beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale maroon",
+        "contains": [
+            {
+                "color": "striped white",
+                "count": 4
+            },
+            {
+                "color": "vibrant teal",
+                "count": 3
+            },
+            {
+                "color": "shiny magenta",
+                "count": 1
+            },
+            {
+                "color": "plaid crimson",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab gray",
+        "contains": [
+            {
+                "color": "posh maroon",
+                "count": 4
+            },
+            {
+                "color": "dotted aqua",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted fuchsia",
+        "contains": [
+            {
+                "color": "striped orange",
+                "count": 1
+            },
+            {
+                "color": "striped turquoise",
+                "count": 2
+            },
+            {
+                "color": "plaid fuchsia",
+                "count": 2
+            },
+            {
+                "color": "mirrored lavender",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab indigo",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 2
+            },
+            {
+                "color": "posh silver",
+                "count": 4
+            },
+            {
+                "color": "wavy aqua",
+                "count": 5
+            },
+            {
+                "color": "posh turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted cyan",
+        "contains": [
+            {
+                "color": "muted olive",
+                "count": 3
+            },
+            {
+                "color": "faded olive",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull silver",
+        "contains": [
+            {
+                "color": "drab lavender",
+                "count": 5
+            },
+            {
+                "color": "shiny silver",
+                "count": 3
+            },
+            {
+                "color": "pale black",
+                "count": 2
+            },
+            {
+                "color": "striped chartreuse",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab lime",
+        "contains": [
+            {
+                "color": "muted green",
+                "count": 2
+            },
+            {
+                "color": "dotted gray",
+                "count": 4
+            },
+            {
+                "color": "dotted coral",
+                "count": 4
+            },
+            {
+                "color": "mirrored lavender",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dotted magenta",
+        "contains": [
+            {
+                "color": "muted magenta",
+                "count": 5
+            },
+            {
+                "color": "muted salmon",
+                "count": 5
+            },
+            {
+                "color": "wavy gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright plum",
+        "contains": [
+            {
+                "color": "striped beige",
+                "count": 4
+            },
+            {
+                "color": "dark tomato",
+                "count": 3
+            },
+            {
+                "color": "plaid lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted indigo",
+        "contains": [
+            {
+                "color": "dotted silver",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale plum",
+        "contains": [
+            {
+                "color": "plaid gold",
+                "count": 4
+            },
+            {
+                "color": "posh maroon",
+                "count": 2
+            },
+            {
+                "color": "drab aqua",
+                "count": 4
+            },
+            {
+                "color": "striped lime",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "clear olive",
+        "contains": [
+            {
+                "color": "bright turquoise",
+                "count": 2
+            },
+            {
+                "color": "wavy tan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale fuchsia",
+        "contains": [
+            {
+                "color": "dim tan",
+                "count": 5
+            },
+            {
+                "color": "dark blue",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab tomato",
+        "contains": []
+    },
+    {
+        "color": "shiny lime",
+        "contains": [
+            {
+                "color": "vibrant magenta",
+                "count": 4
+            },
+            {
+                "color": "dim teal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear cyan",
+        "contains": [
+            {
+                "color": "dull silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh brown",
+        "contains": [
+            {
+                "color": "drab lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy plum",
+        "contains": [
+            {
+                "color": "dim teal",
+                "count": 1
+            },
+            {
+                "color": "faded gold",
+                "count": 4
+            },
+            {
+                "color": "plaid fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped brown",
+        "contains": [
+            {
+                "color": "posh tan",
+                "count": 2
+            },
+            {
+                "color": "plaid chartreuse",
+                "count": 5
+            },
+            {
+                "color": "dull beige",
+                "count": 5
+            },
+            {
+                "color": "posh green",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid lime",
+        "contains": [
+            {
+                "color": "light olive",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped magenta",
+        "contains": [
+            {
+                "color": "shiny maroon",
+                "count": 2
+            },
+            {
+                "color": "wavy lavender",
+                "count": 5
+            },
+            {
+                "color": "light turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny fuchsia",
+        "contains": [
+            {
+                "color": "striped maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light black",
+        "contains": [
+            {
+                "color": "plaid gray",
+                "count": 3
+            },
+            {
+                "color": "drab coral",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted white",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 2
+            },
+            {
+                "color": "dull olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy fuchsia",
+        "contains": [
+            {
+                "color": "dull aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "bright orange",
+        "contains": [
+            {
+                "color": "plaid blue",
+                "count": 2
+            },
+            {
+                "color": "posh blue",
+                "count": 2
+            },
+            {
+                "color": "light lime",
+                "count": 3
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny orange",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 2
+            },
+            {
+                "color": "dim coral",
+                "count": 5
+            },
+            {
+                "color": "wavy blue",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark purple",
+        "contains": [
+            {
+                "color": "dim brown",
+                "count": 5
+            },
+            {
+                "color": "clear magenta",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy purple",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 1
+            },
+            {
+                "color": "plaid cyan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear fuchsia",
+        "contains": [
+            {
+                "color": "pale maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dim olive",
+        "contains": [
+            {
+                "color": "dim yellow",
+                "count": 5
+            },
+            {
+                "color": "wavy indigo",
+                "count": 1
+            },
+            {
+                "color": "dim aqua",
+                "count": 4
+            },
+            {
+                "color": "shiny gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright beige",
+        "contains": [
+            {
+                "color": "faded cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim lime",
+        "contains": [
+            {
+                "color": "dull silver",
+                "count": 1
+            },
+            {
+                "color": "dark yellow",
+                "count": 5
+            },
+            {
+                "color": "dark crimson",
+                "count": 3
+            },
+            {
+                "color": "mirrored cyan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "drab silver",
+        "contains": [
+            {
+                "color": "muted beige",
+                "count": 5
+            },
+            {
+                "color": "drab gold",
+                "count": 2
+            },
+            {
+                "color": "dotted magenta",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted chartreuse",
+        "contains": [
+            {
+                "color": "dim gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "clear crimson",
+        "contains": [
+            {
+                "color": "wavy coral",
+                "count": 3
+            },
+            {
+                "color": "clear salmon",
+                "count": 1
+            },
+            {
+                "color": "light orange",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dark gold",
+        "contains": [
+            {
+                "color": "dark tomato",
+                "count": 2
+            },
+            {
+                "color": "faded cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh silver",
+        "contains": [
+            {
+                "color": "faded bronze",
+                "count": 5
+            },
+            {
+                "color": "plaid aqua",
+                "count": 1
+            },
+            {
+                "color": "plaid fuchsia",
+                "count": 1
+            },
+            {
+                "color": "wavy teal",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark salmon",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 1
+            },
+            {
+                "color": "faded cyan",
+                "count": 1
+            },
+            {
+                "color": "dotted coral",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab lavender",
+        "contains": [
+            {
+                "color": "plaid blue",
+                "count": 2
+            },
+            {
+                "color": "drab tomato",
+                "count": 1
+            },
+            {
+                "color": "clear brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light red",
+        "contains": [
+            {
+                "color": "dull salmon",
+                "count": 5
+            },
+            {
+                "color": "shiny coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dim lavender",
+        "contains": [
+            {
+                "color": "wavy beige",
+                "count": 1
+            },
+            {
+                "color": "wavy violet",
+                "count": 2
+            },
+            {
+                "color": "shiny green",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim blue",
+        "contains": [
+            {
+                "color": "vibrant orange",
+                "count": 2
+            },
+            {
+                "color": "dull olive",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "muted red",
+        "contains": [
+            {
+                "color": "shiny lime",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light gray",
+        "contains": [
+            {
+                "color": "bright magenta",
+                "count": 1
+            },
+            {
+                "color": "wavy teal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant gold",
+        "contains": [
+            {
+                "color": "dotted red",
+                "count": 5
+            },
+            {
+                "color": "light maroon",
+                "count": 5
+            },
+            {
+                "color": "striped blue",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "pale white",
+        "contains": [
+            {
+                "color": "muted brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dotted tan",
+        "contains": [
+            {
+                "color": "faded salmon",
+                "count": 1
+            },
+            {
+                "color": "drab olive",
+                "count": 1
+            },
+            {
+                "color": "dim lime",
+                "count": 2
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored salmon",
+        "contains": [
+            {
+                "color": "bright turquoise",
+                "count": 4
+            },
+            {
+                "color": "vibrant coral",
+                "count": 3
+            },
+            {
+                "color": "dull orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped aqua",
+        "contains": [
+            {
+                "color": "shiny crimson",
+                "count": 2
+            },
+            {
+                "color": "plaid beige",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark crimson",
+        "contains": [
+            {
+                "color": "bright fuchsia",
+                "count": 4
+            },
+            {
+                "color": "dark maroon",
+                "count": 2
+            },
+            {
+                "color": "dim maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded beige",
+        "contains": [
+            {
+                "color": "posh white",
+                "count": 3
+            },
+            {
+                "color": "light turquoise",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear yellow",
+        "contains": [
+            {
+                "color": "vibrant lime",
+                "count": 1
+            },
+            {
+                "color": "dotted tomato",
+                "count": 1
+            },
+            {
+                "color": "pale black",
+                "count": 4
+            },
+            {
+                "color": "pale bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright coral",
+        "contains": [
+            {
+                "color": "wavy crimson",
+                "count": 2
+            },
+            {
+                "color": "mirrored olive",
+                "count": 3
+            },
+            {
+                "color": "light tan",
+                "count": 2
+            },
+            {
+                "color": "faded cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "clear maroon",
+        "contains": [
+            {
+                "color": "faded yellow",
+                "count": 1
+            },
+            {
+                "color": "dark chartreuse",
+                "count": 4
+            },
+            {
+                "color": "bright magenta",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny magenta",
+        "contains": [
+            {
+                "color": "faded red",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright gray",
+        "contains": [
+            {
+                "color": "dim violet",
+                "count": 1
+            },
+            {
+                "color": "faded cyan",
+                "count": 4
+            },
+            {
+                "color": "light turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted red",
+        "contains": [
+            {
+                "color": "plaid blue",
+                "count": 1
+            },
+            {
+                "color": "dark olive",
+                "count": 4
+            },
+            {
+                "color": "wavy plum",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored coral",
+        "contains": [
+            {
+                "color": "pale lime",
+                "count": 3
+            },
+            {
+                "color": "dim chartreuse",
+                "count": 5
+            },
+            {
+                "color": "vibrant violet",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab maroon",
+        "contains": [
+            {
+                "color": "drab lime",
+                "count": 1
+            },
+            {
+                "color": "drab tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dark tan",
+        "contains": [
+            {
+                "color": "pale turquoise",
+                "count": 2
+            },
+            {
+                "color": "dotted brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale yellow",
+        "contains": [
+            {
+                "color": "faded cyan",
+                "count": 5
+            },
+            {
+                "color": "dotted blue",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dim crimson",
+        "contains": [
+            {
+                "color": "dark silver",
+                "count": 2
+            },
+            {
+                "color": "plaid lavender",
+                "count": 5
+            },
+            {
+                "color": "pale gold",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded lavender",
+        "contains": [
+            {
+                "color": "clear aqua",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy indigo",
+        "contains": [
+            {
+                "color": "striped crimson",
+                "count": 2
+            },
+            {
+                "color": "drab tomato",
+                "count": 1
+            },
+            {
+                "color": "light salmon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy black",
+        "contains": [
+            {
+                "color": "shiny gold",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid violet",
+        "contains": [
+            {
+                "color": "pale crimson",
+                "count": 2
+            },
+            {
+                "color": "mirrored crimson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear turquoise",
+        "contains": [
+            {
+                "color": "striped white",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped orange",
+        "contains": [
+            {
+                "color": "clear magenta",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "pale teal",
+        "contains": [
+            {
+                "color": "vibrant olive",
+                "count": 1
+            },
+            {
+                "color": "pale lime",
+                "count": 1
+            },
+            {
+                "color": "plaid teal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "clear indigo",
+        "contains": [
+            {
+                "color": "shiny white",
+                "count": 2
+            },
+            {
+                "color": "shiny cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull tan",
+        "contains": [
+            {
+                "color": "shiny orange",
+                "count": 4
+            },
+            {
+                "color": "posh coral",
+                "count": 4
+            },
+            {
+                "color": "dim purple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted crimson",
+        "contains": [
+            {
+                "color": "clear cyan",
+                "count": 4
+            },
+            {
+                "color": "posh coral",
+                "count": 4
+            },
+            {
+                "color": "clear lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped plum",
+        "contains": [
+            {
+                "color": "pale aqua",
+                "count": 4
+            },
+            {
+                "color": "clear yellow",
+                "count": 3
+            },
+            {
+                "color": "dotted orange",
+                "count": 5
+            },
+            {
+                "color": "clear crimson",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull bronze",
+        "contains": [
+            {
+                "color": "striped bronze",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark maroon",
+        "contains": [
+            {
+                "color": "wavy purple",
+                "count": 3
+            },
+            {
+                "color": "plaid cyan",
+                "count": 2
+            },
+            {
+                "color": "faded cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped gray",
+        "contains": [
+            {
+                "color": "plaid gray",
+                "count": 5
+            },
+            {
+                "color": "vibrant cyan",
+                "count": 4
+            },
+            {
+                "color": "vibrant brown",
+                "count": 5
+            },
+            {
+                "color": "dull plum",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright maroon",
+        "contains": [
+            {
+                "color": "faded olive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant green",
+        "contains": [
+            {
+                "color": "drab gold",
+                "count": 5
+            },
+            {
+                "color": "shiny chartreuse",
+                "count": 1
+            },
+            {
+                "color": "dark black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored orange",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 2
+            },
+            {
+                "color": "drab tomato",
+                "count": 1
+            },
+            {
+                "color": "muted beige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light magenta",
+        "contains": [
+            {
+                "color": "muted maroon",
+                "count": 3
+            },
+            {
+                "color": "dotted gray",
+                "count": 5
+            },
+            {
+                "color": "vibrant tomato",
+                "count": 2
+            },
+            {
+                "color": "muted beige",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh aqua",
+        "contains": [
+            {
+                "color": "wavy bronze",
+                "count": 1
+            },
+            {
+                "color": "clear magenta",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale aqua",
+        "contains": [
+            {
+                "color": "faded cyan",
+                "count": 2
+            },
+            {
+                "color": "wavy teal",
+                "count": 5
+            },
+            {
+                "color": "plaid aqua",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dull teal",
+        "contains": [
+            {
+                "color": "clear salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull violet",
+        "contains": [
+            {
+                "color": "posh cyan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab bronze",
+        "contains": [
+            {
+                "color": "clear lime",
+                "count": 3
+            },
+            {
+                "color": "drab maroon",
+                "count": 2
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "light lime",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid tomato",
+        "contains": [
+            {
+                "color": "dim cyan",
+                "count": 3
+            },
+            {
+                "color": "striped turquoise",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored green",
+        "contains": [
+            {
+                "color": "clear beige",
+                "count": 2
+            },
+            {
+                "color": "plaid teal",
+                "count": 3
+            },
+            {
+                "color": "pale lime",
+                "count": 3
+            },
+            {
+                "color": "plaid orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dark aqua",
+        "contains": [
+            {
+                "color": "dark beige",
+                "count": 3
+            },
+            {
+                "color": "posh gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh gold",
+        "contains": [
+            {
+                "color": "bright silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "pale gray",
+        "contains": [
+            {
+                "color": "vibrant coral",
+                "count": 1
+            },
+            {
+                "color": "striped beige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim gray",
+        "contains": [
+            {
+                "color": "shiny orange",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "mirrored yellow",
+        "contains": [
+            {
+                "color": "faded gold",
+                "count": 4
+            },
+            {
+                "color": "muted teal",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull coral",
+        "contains": [
+            {
+                "color": "light maroon",
+                "count": 4
+            },
+            {
+                "color": "bright brown",
+                "count": 5
+            },
+            {
+                "color": "faded orange",
+                "count": 2
+            },
+            {
+                "color": "light fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored white",
+        "contains": [
+            {
+                "color": "vibrant silver",
+                "count": 1
+            },
+            {
+                "color": "muted coral",
+                "count": 3
+            },
+            {
+                "color": "muted green",
+                "count": 5
+            },
+            {
+                "color": "pale aqua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped gold",
+        "contains": [
+            {
+                "color": "dim white",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear orange",
+        "contains": [
+            {
+                "color": "vibrant violet",
+                "count": 3
+            },
+            {
+                "color": "muted fuchsia",
+                "count": 4
+            },
+            {
+                "color": "plaid orange",
+                "count": 5
+            },
+            {
+                "color": "faded salmon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "drab purple",
+        "contains": [
+            {
+                "color": "dotted tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted lime",
+        "contains": [
+            {
+                "color": "drab magenta",
+                "count": 4
+            },
+            {
+                "color": "vibrant coral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted green",
+        "contains": [
+            {
+                "color": "light tan",
+                "count": 4
+            },
+            {
+                "color": "wavy bronze",
+                "count": 4
+            },
+            {
+                "color": "wavy indigo",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh olive",
+        "contains": [
+            {
+                "color": "light maroon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull cyan",
+        "contains": [
+            {
+                "color": "vibrant tan",
+                "count": 3
+            },
+            {
+                "color": "muted fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright bronze",
+        "contains": [
+            {
+                "color": "shiny turquoise",
+                "count": 3
+            },
+            {
+                "color": "dull turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dull brown",
+        "contains": [
+            {
+                "color": "dull indigo",
+                "count": 5
+            },
+            {
+                "color": "pale salmon",
+                "count": 5
+            },
+            {
+                "color": "shiny gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh cyan",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 5
+            },
+            {
+                "color": "dull aqua",
+                "count": 5
+            },
+            {
+                "color": "shiny silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy red",
+        "contains": [
+            {
+                "color": "posh white",
+                "count": 2
+            },
+            {
+                "color": "dark salmon",
+                "count": 2
+            },
+            {
+                "color": "dark lime",
+                "count": 4
+            },
+            {
+                "color": "vibrant brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded gold",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 3
+            },
+            {
+                "color": "dull olive",
+                "count": 4
+            },
+            {
+                "color": "drab yellow",
+                "count": 4
+            },
+            {
+                "color": "faded cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy salmon",
+        "contains": [
+            {
+                "color": "striped silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored bronze",
+        "contains": [
+            {
+                "color": "dull aqua",
+                "count": 4
+            },
+            {
+                "color": "clear tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped crimson",
+        "contains": []
+    },
+    {
+        "color": "striped violet",
+        "contains": [
+            {
+                "color": "muted brown",
+                "count": 2
+            },
+            {
+                "color": "bright brown",
+                "count": 5
+            },
+            {
+                "color": "dotted chartreuse",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dim aqua",
+        "contains": [
+            {
+                "color": "striped blue",
+                "count": 5
+            },
+            {
+                "color": "light tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "faded violet",
+        "contains": [
+            {
+                "color": "pale plum",
+                "count": 5
+            },
+            {
+                "color": "posh green",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy brown",
+        "contains": [
+            {
+                "color": "dim coral",
+                "count": 1
+            },
+            {
+                "color": "muted beige",
+                "count": 3
+            },
+            {
+                "color": "shiny orange",
+                "count": 1
+            },
+            {
+                "color": "dim brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted green",
+        "contains": [
+            {
+                "color": "dim teal",
+                "count": 5
+            },
+            {
+                "color": "pale tomato",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy lavender",
+        "contains": [
+            {
+                "color": "clear brown",
+                "count": 2
+            },
+            {
+                "color": "mirrored indigo",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab turquoise",
+        "contains": [
+            {
+                "color": "vibrant indigo",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "clear blue",
+        "contains": [
+            {
+                "color": "striped beige",
+                "count": 2
+            },
+            {
+                "color": "dark maroon",
+                "count": 2
+            },
+            {
+                "color": "shiny beige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "drab fuchsia",
+        "contains": [
+            {
+                "color": "striped lime",
+                "count": 5
+            },
+            {
+                "color": "drab beige",
+                "count": 5
+            },
+            {
+                "color": "dotted red",
+                "count": 1
+            },
+            {
+                "color": "clear cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright violet",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 2
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 1
+            },
+            {
+                "color": "wavy teal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted blue",
+        "contains": [
+            {
+                "color": "bright violet",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted lime",
+        "contains": [
+            {
+                "color": "dim silver",
+                "count": 1
+            },
+            {
+                "color": "striped maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull aqua",
+        "contains": [
+            {
+                "color": "drab lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear teal",
+        "contains": [
+            {
+                "color": "drab plum",
+                "count": 5
+            },
+            {
+                "color": "pale brown",
+                "count": 4
+            },
+            {
+                "color": "faded fuchsia",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dim gold",
+        "contains": [
+            {
+                "color": "bright violet",
+                "count": 3
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale indigo",
+        "contains": [
+            {
+                "color": "dim lime",
+                "count": 4
+            },
+            {
+                "color": "dim red",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "plaid aqua",
+        "contains": [
+            {
+                "color": "drab tomato",
+                "count": 5
+            },
+            {
+                "color": "wavy teal",
+                "count": 1
+            },
+            {
+                "color": "shiny silver",
+                "count": 2
+            },
+            {
+                "color": "clear brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright olive",
+        "contains": [
+            {
+                "color": "vibrant brown",
+                "count": 1
+            },
+            {
+                "color": "dull violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "striped lime",
+        "contains": [
+            {
+                "color": "dim beige",
+                "count": 5
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 4
+            },
+            {
+                "color": "shiny orange",
+                "count": 1
+            },
+            {
+                "color": "bright violet",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "mirrored silver",
+        "contains": [
+            {
+                "color": "faded olive",
+                "count": 3
+            },
+            {
+                "color": "shiny tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light green",
+        "contains": [
+            {
+                "color": "mirrored turquoise",
+                "count": 4
+            },
+            {
+                "color": "bright tan",
+                "count": 3
+            },
+            {
+                "color": "clear lavender",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "clear chartreuse",
+        "contains": [
+            {
+                "color": "vibrant lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "clear coral",
+        "contains": [
+            {
+                "color": "faded turquoise",
+                "count": 5
+            },
+            {
+                "color": "dim tan",
+                "count": 3
+            },
+            {
+                "color": "light lime",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted cyan",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 3
+            },
+            {
+                "color": "wavy green",
+                "count": 1
+            },
+            {
+                "color": "dull cyan",
+                "count": 3
+            },
+            {
+                "color": "striped black",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded brown",
+        "contains": [
+            {
+                "color": "clear olive",
+                "count": 5
+            },
+            {
+                "color": "bright turquoise",
+                "count": 5
+            },
+            {
+                "color": "vibrant violet",
+                "count": 4
+            },
+            {
+                "color": "dotted violet",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded tomato",
+        "contains": [
+            {
+                "color": "posh fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted gold",
+        "contains": [
+            {
+                "color": "pale cyan",
+                "count": 1
+            },
+            {
+                "color": "pale tomato",
+                "count": 2
+            },
+            {
+                "color": "dotted beige",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid brown",
+        "contains": [
+            {
+                "color": "dim fuchsia",
+                "count": 3
+            },
+            {
+                "color": "dark chartreuse",
+                "count": 3
+            },
+            {
+                "color": "bright magenta",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh maroon",
+        "contains": [
+            {
+                "color": "striped purple",
+                "count": 5
+            },
+            {
+                "color": "dim gold",
+                "count": 2
+            },
+            {
+                "color": "dull silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "shiny black",
+        "contains": [
+            {
+                "color": "dim silver",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "posh crimson",
+        "contains": [
+            {
+                "color": "posh plum",
+                "count": 2
+            },
+            {
+                "color": "faded coral",
+                "count": 5
+            },
+            {
+                "color": "drab salmon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny crimson",
+        "contains": [
+            {
+                "color": "drab gold",
+                "count": 1
+            },
+            {
+                "color": "light turquoise",
+                "count": 1
+            },
+            {
+                "color": "pale gray",
+                "count": 4
+            },
+            {
+                "color": "pale lime",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy yellow",
+        "contains": [
+            {
+                "color": "mirrored coral",
+                "count": 2
+            },
+            {
+                "color": "muted fuchsia",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright green",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 1
+            },
+            {
+                "color": "muted turquoise",
+                "count": 4
+            },
+            {
+                "color": "muted gold",
+                "count": 2
+            },
+            {
+                "color": "clear green",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored crimson",
+        "contains": [
+            {
+                "color": "drab indigo",
+                "count": 3
+            },
+            {
+                "color": "wavy blue",
+                "count": 2
+            },
+            {
+                "color": "striped orange",
+                "count": 2
+            },
+            {
+                "color": "drab lavender",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "bright purple",
+        "contains": [
+            {
+                "color": "bright black",
+                "count": 3
+            },
+            {
+                "color": "dull fuchsia",
+                "count": 2
+            },
+            {
+                "color": "bright plum",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny purple",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 5
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            },
+            {
+                "color": "drab lavender",
+                "count": 5
+            },
+            {
+                "color": "pale black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted teal",
+        "contains": [
+            {
+                "color": "shiny brown",
+                "count": 1
+            },
+            {
+                "color": "wavy fuchsia",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab violet",
+        "contains": [
+            {
+                "color": "bright violet",
+                "count": 4
+            },
+            {
+                "color": "clear beige",
+                "count": 1
+            },
+            {
+                "color": "vibrant tomato",
+                "count": 3
+            },
+            {
+                "color": "light olive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant beige",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy teal",
+        "contains": [
+            {
+                "color": "striped crimson",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "wavy gray",
+        "contains": [
+            {
+                "color": "vibrant coral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim magenta",
+        "contains": [
+            {
+                "color": "vibrant crimson",
+                "count": 2
+            },
+            {
+                "color": "dim lavender",
+                "count": 5
+            },
+            {
+                "color": "mirrored black",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim plum",
+        "contains": [
+            {
+                "color": "striped magenta",
+                "count": 3
+            },
+            {
+                "color": "light teal",
+                "count": 4
+            },
+            {
+                "color": "dark salmon",
+                "count": 4
+            },
+            {
+                "color": "drab orange",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light tan",
+        "contains": [
+            {
+                "color": "clear brown",
+                "count": 3
+            },
+            {
+                "color": "bright violet",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light bronze",
+        "contains": [
+            {
+                "color": "shiny gold",
+                "count": 1
+            },
+            {
+                "color": "striped bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded aqua",
+        "contains": [
+            {
+                "color": "vibrant silver",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "wavy chartreuse",
+        "contains": [
+            {
+                "color": "shiny purple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dark plum",
+        "contains": [
+            {
+                "color": "dotted gold",
+                "count": 1
+            },
+            {
+                "color": "mirrored yellow",
+                "count": 1
+            },
+            {
+                "color": "light indigo",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped black",
+        "contains": [
+            {
+                "color": "posh yellow",
+                "count": 1
+            },
+            {
+                "color": "light salmon",
+                "count": 5
+            },
+            {
+                "color": "plaid tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "mirrored fuchsia",
+        "contains": [
+            {
+                "color": "plaid cyan",
+                "count": 2
+            },
+            {
+                "color": "mirrored cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull white",
+        "contains": [
+            {
+                "color": "clear silver",
+                "count": 2
+            },
+            {
+                "color": "light red",
+                "count": 5
+            },
+            {
+                "color": "pale lime",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale brown",
+        "contains": [
+            {
+                "color": "shiny tan",
+                "count": 5
+            },
+            {
+                "color": "drab aqua",
+                "count": 3
+            },
+            {
+                "color": "dark yellow",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "mirrored maroon",
+        "contains": [
+            {
+                "color": "dark beige",
+                "count": 4
+            },
+            {
+                "color": "plaid salmon",
+                "count": 4
+            },
+            {
+                "color": "striped purple",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "light violet",
+        "contains": [
+            {
+                "color": "faded salmon",
+                "count": 3
+            },
+            {
+                "color": "posh salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale blue",
+        "contains": [
+            {
+                "color": "striped silver",
+                "count": 5
+            },
+            {
+                "color": "shiny violet",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid beige",
+        "contains": [
+            {
+                "color": "dotted green",
+                "count": 1
+            },
+            {
+                "color": "faded yellow",
+                "count": 1
+            },
+            {
+                "color": "dull lavender",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab tan",
+        "contains": [
+            {
+                "color": "striped magenta",
+                "count": 3
+            },
+            {
+                "color": "dim beige",
+                "count": 5
+            },
+            {
+                "color": "bright turquoise",
+                "count": 1
+            },
+            {
+                "color": "faded gold",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale violet",
+        "contains": [
+            {
+                "color": "dull plum",
+                "count": 4
+            },
+            {
+                "color": "pale red",
+                "count": 5
+            },
+            {
+                "color": "dotted silver",
+                "count": 1
+            },
+            {
+                "color": "striped coral",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light tomato",
+        "contains": [
+            {
+                "color": "wavy chartreuse",
+                "count": 2
+            },
+            {
+                "color": "bright beige",
+                "count": 4
+            },
+            {
+                "color": "muted cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "shiny turquoise",
+        "contains": [
+            {
+                "color": "drab fuchsia",
+                "count": 3
+            },
+            {
+                "color": "dull turquoise",
+                "count": 2
+            },
+            {
+                "color": "vibrant plum",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted salmon",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 5
+            },
+            {
+                "color": "muted green",
+                "count": 3
+            },
+            {
+                "color": "vibrant magenta",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted maroon",
+        "contains": [
+            {
+                "color": "dotted turquoise",
+                "count": 2
+            },
+            {
+                "color": "dull silver",
+                "count": 1
+            },
+            {
+                "color": "mirrored yellow",
+                "count": 5
+            },
+            {
+                "color": "mirrored lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dull lime",
+        "contains": [
+            {
+                "color": "wavy teal",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid magenta",
+        "contains": [
+            {
+                "color": "posh maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "vibrant teal",
+        "contains": [
+            {
+                "color": "striped purple",
+                "count": 5
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 1
+            },
+            {
+                "color": "shiny chartreuse",
+                "count": 1
+            },
+            {
+                "color": "clear plum",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "striped turquoise",
+        "contains": [
+            {
+                "color": "clear chartreuse",
+                "count": 2
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 5
+            },
+            {
+                "color": "dotted tomato",
+                "count": 4
+            },
+            {
+                "color": "wavy brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear brown",
+        "contains": []
+    },
+    {
+        "color": "mirrored beige",
+        "contains": [
+            {
+                "color": "posh fuchsia",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "light maroon",
+        "contains": [
+            {
+                "color": "plaid blue",
+                "count": 4
+            },
+            {
+                "color": "drab purple",
+                "count": 4
+            },
+            {
+                "color": "pale aqua",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light silver",
+        "contains": [
+            {
+                "color": "posh turquoise",
+                "count": 2
+            },
+            {
+                "color": "pale tomato",
+                "count": 2
+            },
+            {
+                "color": "plaid red",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright magenta",
+        "contains": [
+            {
+                "color": "shiny violet",
+                "count": 4
+            },
+            {
+                "color": "shiny silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted magenta",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 2
+            },
+            {
+                "color": "vibrant plum",
+                "count": 4
+            },
+            {
+                "color": "mirrored black",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "shiny olive",
+        "contains": [
+            {
+                "color": "posh magenta",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant lavender",
+        "contains": [
+            {
+                "color": "shiny violet",
+                "count": 2
+            },
+            {
+                "color": "mirrored white",
+                "count": 4
+            },
+            {
+                "color": "dull lavender",
+                "count": 5
+            },
+            {
+                "color": "wavy olive",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "faded turquoise",
+        "contains": [
+            {
+                "color": "drab crimson",
+                "count": 2
+            },
+            {
+                "color": "dim crimson",
+                "count": 5
+            },
+            {
+                "color": "dark indigo",
+                "count": 5
+            },
+            {
+                "color": "dotted silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded olive",
+        "contains": [
+            {
+                "color": "striped tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark yellow",
+        "contains": [
+            {
+                "color": "dotted coral",
+                "count": 1
+            },
+            {
+                "color": "plaid fuchsia",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim violet",
+        "contains": [
+            {
+                "color": "dotted coral",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark red",
+        "contains": [
+            {
+                "color": "posh silver",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "wavy white",
+        "contains": [
+            {
+                "color": "striped tan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "mirrored cyan",
+        "contains": [
+            {
+                "color": "plaid cyan",
+                "count": 2
+            },
+            {
+                "color": "wavy chartreuse",
+                "count": 5
+            },
+            {
+                "color": "striped orange",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny maroon",
+        "contains": [
+            {
+                "color": "dark violet",
+                "count": 3
+            },
+            {
+                "color": "wavy plum",
+                "count": 4
+            },
+            {
+                "color": "plaid aqua",
+                "count": 1
+            },
+            {
+                "color": "light turquoise",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant black",
+        "contains": [
+            {
+                "color": "plaid yellow",
+                "count": 3
+            },
+            {
+                "color": "plaid tan",
+                "count": 3
+            },
+            {
+                "color": "posh cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh plum",
+        "contains": [
+            {
+                "color": "vibrant brown",
+                "count": 1
+            },
+            {
+                "color": "pale violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright salmon",
+        "contains": [
+            {
+                "color": "posh tan",
+                "count": 1
+            },
+            {
+                "color": "pale black",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny red",
+        "contains": [
+            {
+                "color": "wavy magenta",
+                "count": 1
+            },
+            {
+                "color": "clear gray",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dark violet",
+        "contains": []
+    },
+    {
+        "color": "mirrored tomato",
+        "contains": [
+            {
+                "color": "wavy fuchsia",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab coral",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 3
+            },
+            {
+                "color": "striped crimson",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped chartreuse",
+        "contains": [
+            {
+                "color": "striped green",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab magenta",
+        "contains": [
+            {
+                "color": "faded cyan",
+                "count": 2
+            },
+            {
+                "color": "bright cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab white",
+        "contains": [
+            {
+                "color": "vibrant violet",
+                "count": 3
+            },
+            {
+                "color": "posh coral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light chartreuse",
+        "contains": [
+            {
+                "color": "drab lime",
+                "count": 5
+            },
+            {
+                "color": "dull salmon",
+                "count": 3
+            },
+            {
+                "color": "clear plum",
+                "count": 5
+            },
+            {
+                "color": "dull beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "pale olive",
+        "contains": [
+            {
+                "color": "faded silver",
+                "count": 5
+            },
+            {
+                "color": "dotted aqua",
+                "count": 4
+            },
+            {
+                "color": "dark purple",
+                "count": 1
+            },
+            {
+                "color": "drab beige",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy tomato",
+        "contains": [
+            {
+                "color": "dim bronze",
+                "count": 2
+            },
+            {
+                "color": "posh white",
+                "count": 3
+            },
+            {
+                "color": "dark salmon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "shiny blue",
+        "contains": [
+            {
+                "color": "clear bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny gray",
+        "contains": [
+            {
+                "color": "dotted white",
+                "count": 1
+            },
+            {
+                "color": "mirrored indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted tan",
+        "contains": [
+            {
+                "color": "clear maroon",
+                "count": 1
+            },
+            {
+                "color": "clear blue",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh coral",
+        "contains": [
+            {
+                "color": "shiny brown",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "drab teal",
+        "contains": [
+            {
+                "color": "dotted red",
+                "count": 1
+            },
+            {
+                "color": "pale cyan",
+                "count": 3
+            },
+            {
+                "color": "muted yellow",
+                "count": 4
+            },
+            {
+                "color": "dim beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull orange",
+        "contains": [
+            {
+                "color": "bright silver",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant red",
+        "contains": [
+            {
+                "color": "light turquoise",
+                "count": 2
+            },
+            {
+                "color": "dark green",
+                "count": 4
+            },
+            {
+                "color": "dull plum",
+                "count": 4
+            },
+            {
+                "color": "striped plum",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright silver",
+        "contains": [
+            {
+                "color": "light purple",
+                "count": 2
+            },
+            {
+                "color": "muted green",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "vibrant yellow",
+        "contains": [
+            {
+                "color": "dotted gold",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "plaid chartreuse",
+        "contains": [
+            {
+                "color": "muted green",
+                "count": 5
+            },
+            {
+                "color": "dim maroon",
+                "count": 3
+            },
+            {
+                "color": "drab black",
+                "count": 4
+            },
+            {
+                "color": "mirrored turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dull salmon",
+        "contains": [
+            {
+                "color": "wavy bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim teal",
+        "contains": [
+            {
+                "color": "vibrant magenta",
+                "count": 2
+            },
+            {
+                "color": "dull aqua",
+                "count": 2
+            },
+            {
+                "color": "dark crimson",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped coral",
+        "contains": [
+            {
+                "color": "light salmon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dark teal",
+        "contains": [
+            {
+                "color": "clear yellow",
+                "count": 2
+            },
+            {
+                "color": "mirrored coral",
+                "count": 2
+            },
+            {
+                "color": "mirrored yellow",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark indigo",
+        "contains": [
+            {
+                "color": "clear gray",
+                "count": 1
+            },
+            {
+                "color": "wavy violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright indigo",
+        "contains": [
+            {
+                "color": "light maroon",
+                "count": 5
+            },
+            {
+                "color": "muted magenta",
+                "count": 1
+            },
+            {
+                "color": "vibrant lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab plum",
+        "contains": [
+            {
+                "color": "wavy coral",
+                "count": 5
+            },
+            {
+                "color": "wavy aqua",
+                "count": 1
+            },
+            {
+                "color": "dim tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab beige",
+        "contains": [
+            {
+                "color": "wavy teal",
+                "count": 4
+            },
+            {
+                "color": "dotted orange",
+                "count": 4
+            },
+            {
+                "color": "dotted coral",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull yellow",
+        "contains": [
+            {
+                "color": "wavy tan",
+                "count": 3
+            },
+            {
+                "color": "plaid green",
+                "count": 2
+            },
+            {
+                "color": "bright magenta",
+                "count": 3
+            },
+            {
+                "color": "vibrant beige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "muted olive",
+        "contains": [
+            {
+                "color": "faded black",
+                "count": 2
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "drab chartreuse",
+        "contains": [
+            {
+                "color": "clear bronze",
+                "count": 3
+            },
+            {
+                "color": "plaid brown",
+                "count": 3
+            },
+            {
+                "color": "light magenta",
+                "count": 4
+            },
+            {
+                "color": "clear salmon",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "clear violet",
+        "contains": [
+            {
+                "color": "plaid beige",
+                "count": 5
+            },
+            {
+                "color": "striped white",
+                "count": 3
+            },
+            {
+                "color": "light teal",
+                "count": 5
+            },
+            {
+                "color": "dotted silver",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh lime",
+        "contains": [
+            {
+                "color": "faded plum",
+                "count": 1
+            },
+            {
+                "color": "mirrored white",
+                "count": 4
+            },
+            {
+                "color": "posh aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded red",
+        "contains": [
+            {
+                "color": "bright fuchsia",
+                "count": 5
+            },
+            {
+                "color": "faded cyan",
+                "count": 4
+            },
+            {
+                "color": "dark violet",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted maroon",
+        "contains": [
+            {
+                "color": "vibrant lime",
+                "count": 1
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 3
+            },
+            {
+                "color": "drab lavender",
+                "count": 1
+            },
+            {
+                "color": "light blue",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab red",
+        "contains": [
+            {
+                "color": "pale orange",
+                "count": 1
+            },
+            {
+                "color": "dim teal",
+                "count": 3
+            },
+            {
+                "color": "wavy orange",
+                "count": 2
+            },
+            {
+                "color": "dark salmon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dim silver",
+        "contains": [
+            {
+                "color": "dim lime",
+                "count": 4
+            },
+            {
+                "color": "drab maroon",
+                "count": 5
+            },
+            {
+                "color": "vibrant coral",
+                "count": 2
+            },
+            {
+                "color": "vibrant white",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light aqua",
+        "contains": [
+            {
+                "color": "light fuchsia",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light cyan",
+        "contains": [
+            {
+                "color": "muted fuchsia",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull black",
+        "contains": [
+            {
+                "color": "pale lavender",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored turquoise",
+        "contains": [
+            {
+                "color": "dull lime",
+                "count": 4
+            },
+            {
+                "color": "dull silver",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "pale coral",
+        "contains": [
+            {
+                "color": "shiny silver",
+                "count": 2
+            },
+            {
+                "color": "dull turquoise",
+                "count": 1
+            },
+            {
+                "color": "shiny purple",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dull beige",
+        "contains": [
+            {
+                "color": "mirrored teal",
+                "count": 2
+            },
+            {
+                "color": "dotted white",
+                "count": 3
+            },
+            {
+                "color": "posh blue",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted yellow",
+        "contains": [
+            {
+                "color": "dim maroon",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dim white",
+        "contains": [
+            {
+                "color": "pale crimson",
+                "count": 2
+            },
+            {
+                "color": "clear brown",
+                "count": 4
+            },
+            {
+                "color": "mirrored coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "faded yellow",
+        "contains": [
+            {
+                "color": "light turquoise",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dim cyan",
+        "contains": [
+            {
+                "color": "mirrored yellow",
+                "count": 4
+            },
+            {
+                "color": "clear blue",
+                "count": 1
+            },
+            {
+                "color": "striped maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "posh purple",
+        "contains": [
+            {
+                "color": "drab crimson",
+                "count": 2
+            },
+            {
+                "color": "shiny violet",
+                "count": 5
+            },
+            {
+                "color": "drab cyan",
+                "count": 5
+            },
+            {
+                "color": "dark tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab crimson",
+        "contains": [
+            {
+                "color": "plaid tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh teal",
+        "contains": [
+            {
+                "color": "light olive",
+                "count": 5
+            },
+            {
+                "color": "mirrored teal",
+                "count": 5
+            },
+            {
+                "color": "bright white",
+                "count": 3
+            },
+            {
+                "color": "mirrored white",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark orange",
+        "contains": [
+            {
+                "color": "mirrored lavender",
+                "count": 5
+            },
+            {
+                "color": "posh purple",
+                "count": 2
+            },
+            {
+                "color": "wavy magenta",
+                "count": 4
+            },
+            {
+                "color": "plaid cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted beige",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 3
+            },
+            {
+                "color": "pale orange",
+                "count": 1
+            },
+            {
+                "color": "light orange",
+                "count": 3
+            },
+            {
+                "color": "clear beige",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright gold",
+        "contains": [
+            {
+                "color": "pale gray",
+                "count": 4
+            },
+            {
+                "color": "muted maroon",
+                "count": 5
+            },
+            {
+                "color": "drab tan",
+                "count": 3
+            },
+            {
+                "color": "mirrored turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded fuchsia",
+        "contains": [
+            {
+                "color": "shiny red",
+                "count": 3
+            },
+            {
+                "color": "faded violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted black",
+        "contains": [
+            {
+                "color": "muted teal",
+                "count": 4
+            },
+            {
+                "color": "faded violet",
+                "count": 5
+            },
+            {
+                "color": "mirrored coral",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "muted plum",
+        "contains": [
+            {
+                "color": "plaid gray",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded orange",
+        "contains": [
+            {
+                "color": "wavy bronze",
+                "count": 4
+            },
+            {
+                "color": "light crimson",
+                "count": 2
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 3
+            },
+            {
+                "color": "striped maroon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "plaid gold",
+        "contains": [
+            {
+                "color": "pale crimson",
+                "count": 5
+            },
+            {
+                "color": "clear tan",
+                "count": 4
+            },
+            {
+                "color": "wavy turquoise",
+                "count": 3
+            },
+            {
+                "color": "dim chartreuse",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored violet",
+        "contains": [
+            {
+                "color": "dim brown",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "pale cyan",
+        "contains": [
+            {
+                "color": "dotted aqua",
+                "count": 3
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 5
+            },
+            {
+                "color": "dim violet",
+                "count": 1
+            },
+            {
+                "color": "clear yellow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dull magenta",
+        "contains": [
+            {
+                "color": "light chartreuse",
+                "count": 3
+            },
+            {
+                "color": "light aqua",
+                "count": 4
+            },
+            {
+                "color": "faded indigo",
+                "count": 3
+            },
+            {
+                "color": "clear blue",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light teal",
+        "contains": [
+            {
+                "color": "shiny cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dark beige",
+        "contains": [
+            {
+                "color": "dull tan",
+                "count": 3
+            },
+            {
+                "color": "shiny aqua",
+                "count": 3
+            },
+            {
+                "color": "drab black",
+                "count": 3
+            },
+            {
+                "color": "faded cyan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "light yellow",
+        "contains": [
+            {
+                "color": "dim beige",
+                "count": 1
+            },
+            {
+                "color": "wavy cyan",
+                "count": 1
+            },
+            {
+                "color": "dim coral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "bright aqua",
+        "contains": [
+            {
+                "color": "drab beige",
+                "count": 2
+            },
+            {
+                "color": "dotted aqua",
+                "count": 3
+            },
+            {
+                "color": "drab olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "shiny teal",
+        "contains": [
+            {
+                "color": "vibrant tan",
+                "count": 5
+            },
+            {
+                "color": "posh blue",
+                "count": 1
+            },
+            {
+                "color": "dotted gray",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored blue",
+        "contains": [
+            {
+                "color": "dim beige",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear magenta",
+        "contains": [
+            {
+                "color": "clear tan",
+                "count": 4
+            },
+            {
+                "color": "plaid orange",
+                "count": 5
+            },
+            {
+                "color": "bright violet",
+                "count": 3
+            },
+            {
+                "color": "light lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale green",
+        "contains": [
+            {
+                "color": "vibrant white",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "light fuchsia",
+        "contains": [
+            {
+                "color": "wavy plum",
+                "count": 4
+            },
+            {
+                "color": "dull olive",
+                "count": 5
+            },
+            {
+                "color": "striped orange",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright lime",
+        "contains": [
+            {
+                "color": "dark yellow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dull tomato",
+        "contains": [
+            {
+                "color": "wavy blue",
+                "count": 3
+            },
+            {
+                "color": "drab aqua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded indigo",
+        "contains": [
+            {
+                "color": "posh gold",
+                "count": 5
+            },
+            {
+                "color": "shiny beige",
+                "count": 4
+            },
+            {
+                "color": "wavy gray",
+                "count": 4
+            },
+            {
+                "color": "dim magenta",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy coral",
+        "contains": [
+            {
+                "color": "dark olive",
+                "count": 4
+            },
+            {
+                "color": "dull silver",
+                "count": 5
+            },
+            {
+                "color": "clear magenta",
+                "count": 1
+            },
+            {
+                "color": "light crimson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny plum",
+        "contains": [
+            {
+                "color": "shiny tan",
+                "count": 4
+            },
+            {
+                "color": "vibrant white",
+                "count": 3
+            },
+            {
+                "color": "striped gold",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear aqua",
+        "contains": [
+            {
+                "color": "light crimson",
+                "count": 1
+            },
+            {
+                "color": "bright silver",
+                "count": 4
+            },
+            {
+                "color": "wavy gold",
+                "count": 2
+            },
+            {
+                "color": "mirrored indigo",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "plaid blue",
+        "contains": []
+    },
+    {
+        "color": "dark lime",
+        "contains": [
+            {
+                "color": "dim chartreuse",
+                "count": 3
+            },
+            {
+                "color": "plaid indigo",
+                "count": 5
+            },
+            {
+                "color": "dim brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear plum",
+        "contains": [
+            {
+                "color": "light salmon",
+                "count": 5
+            },
+            {
+                "color": "drab lavender",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "plaid cyan",
+        "contains": []
+    },
+    {
+        "color": "clear white",
+        "contains": [
+            {
+                "color": "vibrant tomato",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "faded tan",
+        "contains": [
+            {
+                "color": "dull yellow",
+                "count": 1
+            },
+            {
+                "color": "shiny indigo",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid coral",
+        "contains": [
+            {
+                "color": "dull bronze",
+                "count": 1
+            },
+            {
+                "color": "clear tan",
+                "count": 2
+            },
+            {
+                "color": "clear maroon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale bronze",
+        "contains": [
+            {
+                "color": "wavy cyan",
+                "count": 4
+            },
+            {
+                "color": "pale aqua",
+                "count": 3
+            },
+            {
+                "color": "dark maroon",
+                "count": 3
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh green",
+        "contains": [
+            {
+                "color": "clear plum",
+                "count": 4
+            },
+            {
+                "color": "pale cyan",
+                "count": 1
+            },
+            {
+                "color": "striped maroon",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim indigo",
+        "contains": [
+            {
+                "color": "vibrant green",
+                "count": 4
+            },
+            {
+                "color": "dark teal",
+                "count": 3
+            },
+            {
+                "color": "dim violet",
+                "count": 2
+            },
+            {
+                "color": "shiny aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted violet",
+        "contains": [
+            {
+                "color": "wavy tan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "muted tomato",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 3
+            },
+            {
+                "color": "muted green",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "posh white",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 3
+            },
+            {
+                "color": "wavy blue",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab brown",
+        "contains": [
+            {
+                "color": "wavy fuchsia",
+                "count": 1
+            },
+            {
+                "color": "wavy lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim purple",
+        "contains": [
+            {
+                "color": "wavy gray",
+                "count": 5
+            },
+            {
+                "color": "shiny cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "vibrant brown",
+        "contains": [
+            {
+                "color": "shiny orange",
+                "count": 4
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 2
+            },
+            {
+                "color": "clear salmon",
+                "count": 1
+            },
+            {
+                "color": "shiny silver",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light purple",
+        "contains": [
+            {
+                "color": "light brown",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored teal",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 5
+            },
+            {
+                "color": "drab aqua",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "dark cyan",
+        "contains": [
+            {
+                "color": "wavy lime",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear bronze",
+        "contains": [
+            {
+                "color": "clear green",
+                "count": 5
+            },
+            {
+                "color": "dull black",
+                "count": 4
+            },
+            {
+                "color": "muted salmon",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh tan",
+        "contains": [
+            {
+                "color": "dim orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant magenta",
+        "contains": [
+            {
+                "color": "clear magenta",
+                "count": 2
+            },
+            {
+                "color": "drab purple",
+                "count": 5
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "bright tomato",
+        "contains": [
+            {
+                "color": "pale bronze",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "faded green",
+        "contains": [
+            {
+                "color": "vibrant indigo",
+                "count": 2
+            },
+            {
+                "color": "plaid indigo",
+                "count": 4
+            },
+            {
+                "color": "drab red",
+                "count": 5
+            },
+            {
+                "color": "clear turquoise",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy olive",
+        "contains": [
+            {
+                "color": "mirrored crimson",
+                "count": 4
+            },
+            {
+                "color": "dotted green",
+                "count": 4
+            },
+            {
+                "color": "drab lime",
+                "count": 4
+            },
+            {
+                "color": "posh brown",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark brown",
+        "contains": [
+            {
+                "color": "mirrored olive",
+                "count": 2
+            },
+            {
+                "color": "striped blue",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "muted orange",
+        "contains": [
+            {
+                "color": "dark gray",
+                "count": 1
+            },
+            {
+                "color": "posh silver",
+                "count": 3
+            },
+            {
+                "color": "dim lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny beige",
+        "contains": [
+            {
+                "color": "dark silver",
+                "count": 1
+            },
+            {
+                "color": "dotted violet",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "mirrored olive",
+        "contains": [
+            {
+                "color": "dull violet",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "shiny aqua",
+        "contains": [
+            {
+                "color": "light fuchsia",
+                "count": 3
+            },
+            {
+                "color": "plaid gray",
+                "count": 3
+            },
+            {
+                "color": "dull orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "mirrored brown",
+        "contains": [
+            {
+                "color": "faded olive",
+                "count": 4
+            },
+            {
+                "color": "plaid aqua",
+                "count": 2
+            },
+            {
+                "color": "posh cyan",
+                "count": 2
+            },
+            {
+                "color": "pale purple",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted bronze",
+        "contains": [
+            {
+                "color": "vibrant lime",
+                "count": 5
+            },
+            {
+                "color": "light crimson",
+                "count": 5
+            },
+            {
+                "color": "wavy tan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "striped maroon",
+        "contains": [
+            {
+                "color": "dark salmon",
+                "count": 4
+            },
+            {
+                "color": "posh white",
+                "count": 1
+            },
+            {
+                "color": "shiny green",
+                "count": 4
+            },
+            {
+                "color": "drab lavender",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "vibrant purple",
+        "contains": [
+            {
+                "color": "posh gray",
+                "count": 2
+            },
+            {
+                "color": "dark chartreuse",
+                "count": 3
+            },
+            {
+                "color": "wavy bronze",
+                "count": 3
+            },
+            {
+                "color": "faded purple",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dark turquoise",
+        "contains": [
+            {
+                "color": "vibrant bronze",
+                "count": 4
+            },
+            {
+                "color": "pale tomato",
+                "count": 4
+            },
+            {
+                "color": "vibrant teal",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "drab orange",
+        "contains": [
+            {
+                "color": "shiny teal",
+                "count": 2
+            },
+            {
+                "color": "light olive",
+                "count": 2
+            },
+            {
+                "color": "dim coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "shiny gold",
+        "contains": [
+            {
+                "color": "mirrored orange",
+                "count": 2
+            },
+            {
+                "color": "dotted coral",
+                "count": 2
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "wavy orange",
+        "contains": [
+            {
+                "color": "clear beige",
+                "count": 4
+            },
+            {
+                "color": "faded gold",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "bright brown",
+        "contains": [
+            {
+                "color": "shiny green",
+                "count": 4
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 1
+            },
+            {
+                "color": "dull silver",
+                "count": 4
+            },
+            {
+                "color": "drab purple",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh turquoise",
+        "contains": [
+            {
+                "color": "mirrored turquoise",
+                "count": 2
+            },
+            {
+                "color": "dotted tomato",
+                "count": 3
+            },
+            {
+                "color": "mirrored fuchsia",
+                "count": 2
+            },
+            {
+                "color": "pale tomato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded black",
+        "contains": [
+            {
+                "color": "light lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "muted chartreuse",
+        "contains": [
+            {
+                "color": "shiny green",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped cyan",
+        "contains": [
+            {
+                "color": "mirrored olive",
+                "count": 5
+            },
+            {
+                "color": "dark silver",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant turquoise",
+        "contains": [
+            {
+                "color": "shiny teal",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "wavy crimson",
+        "contains": [
+            {
+                "color": "posh lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dull green",
+        "contains": [
+            {
+                "color": "dull gray",
+                "count": 4
+            },
+            {
+                "color": "shiny lime",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "wavy tan",
+        "contains": [
+            {
+                "color": "dull olive",
+                "count": 4
+            },
+            {
+                "color": "faded cyan",
+                "count": 3
+            },
+            {
+                "color": "dim maroon",
+                "count": 1
+            },
+            {
+                "color": "striped crimson",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "vibrant coral",
+        "contains": [
+            {
+                "color": "mirrored lavender",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "light coral",
+        "contains": [
+            {
+                "color": "clear yellow",
+                "count": 5
+            },
+            {
+                "color": "faded violet",
+                "count": 1
+            },
+            {
+                "color": "drab yellow",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "striped blue",
+        "contains": [
+            {
+                "color": "striped crimson",
+                "count": 5
+            },
+            {
+                "color": "drab purple",
+                "count": 1
+            },
+            {
+                "color": "dotted coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant fuchsia",
+        "contains": [
+            {
+                "color": "striped blue",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab gold",
+        "contains": [
+            {
+                "color": "dark chartreuse",
+                "count": 4
+            },
+            {
+                "color": "clear orange",
+                "count": 2
+            },
+            {
+                "color": "vibrant magenta",
+                "count": 5
+            },
+            {
+                "color": "wavy gray",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim beige",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 4
+            },
+            {
+                "color": "clear tan",
+                "count": 3
+            },
+            {
+                "color": "drab lavender",
+                "count": 2
+            },
+            {
+                "color": "striped green",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "mirrored chartreuse",
+        "contains": [
+            {
+                "color": "posh gold",
+                "count": 5
+            },
+            {
+                "color": "posh violet",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant maroon",
+        "contains": [
+            {
+                "color": "faded brown",
+                "count": 2
+            },
+            {
+                "color": "light red",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dim bronze",
+        "contains": [
+            {
+                "color": "pale tomato",
+                "count": 3
+            },
+            {
+                "color": "shiny green",
+                "count": 4
+            },
+            {
+                "color": "posh orange",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "clear purple",
+        "contains": [
+            {
+                "color": "wavy purple",
+                "count": 1
+            },
+            {
+                "color": "plaid aqua",
+                "count": 1
+            },
+            {
+                "color": "drab cyan",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull chartreuse",
+        "contains": [
+            {
+                "color": "drab beige",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "bright lavender",
+        "contains": [
+            {
+                "color": "plaid green",
+                "count": 3
+            },
+            {
+                "color": "wavy indigo",
+                "count": 1
+            },
+            {
+                "color": "vibrant brown",
+                "count": 4
+            },
+            {
+                "color": "mirrored black",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "muted crimson",
+        "contains": [
+            {
+                "color": "dotted gray",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "shiny brown",
+        "contains": [
+            {
+                "color": "pale black",
+                "count": 2
+            },
+            {
+                "color": "dark olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "posh orange",
+        "contains": [
+            {
+                "color": "pale coral",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "mirrored lavender",
+        "contains": [
+            {
+                "color": "drab yellow",
+                "count": 1
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "vibrant aqua",
+        "contains": [
+            {
+                "color": "dim brown",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "pale beige",
+        "contains": [
+            {
+                "color": "drab plum",
+                "count": 5
+            },
+            {
+                "color": "clear tan",
+                "count": 4
+            },
+            {
+                "color": "light silver",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "vibrant tomato",
+        "contains": [
+            {
+                "color": "faded gold",
+                "count": 4
+            },
+            {
+                "color": "dim brown",
+                "count": 4
+            },
+            {
+                "color": "wavy cyan",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "drab black",
+        "contains": [
+            {
+                "color": "shiny tan",
+                "count": 1
+            },
+            {
+                "color": "wavy orange",
+                "count": 2
+            },
+            {
+                "color": "wavy plum",
+                "count": 3
+            },
+            {
+                "color": "posh silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "faded blue",
+        "contains": [
+            {
+                "color": "clear chartreuse",
+                "count": 2
+            },
+            {
+                "color": "bright turquoise",
+                "count": 3
+            },
+            {
+                "color": "clear lime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear black",
+        "contains": [
+            {
+                "color": "pale magenta",
+                "count": 4
+            },
+            {
+                "color": "faded orange",
+                "count": 1
+            },
+            {
+                "color": "plaid salmon",
+                "count": 2
+            },
+            {
+                "color": "bright yellow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dim maroon",
+        "contains": []
+    },
+    {
+        "color": "dotted olive",
+        "contains": [
+            {
+                "color": "plaid indigo",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted silver",
+        "contains": [
+            {
+                "color": "posh maroon",
+                "count": 4
+            },
+            {
+                "color": "vibrant brown",
+                "count": 1
+            },
+            {
+                "color": "mirrored olive",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "plaid lavender",
+        "contains": [
+            {
+                "color": "dull lime",
+                "count": 4
+            },
+            {
+                "color": "wavy coral",
+                "count": 2
+            },
+            {
+                "color": "dim silver",
+                "count": 5
+            },
+            {
+                "color": "dim fuchsia",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "striped salmon",
+        "contains": [
+            {
+                "color": "posh bronze",
+                "count": 3
+            },
+            {
+                "color": "bright aqua",
+                "count": 1
+            },
+            {
+                "color": "wavy white",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "vibrant crimson",
+        "contains": [
+            {
+                "color": "vibrant lime",
+                "count": 2
+            },
+            {
+                "color": "striped black",
+                "count": 3
+            },
+            {
+                "color": "dull plum",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "plaid silver",
+        "contains": [
+            {
+                "color": "clear crimson",
+                "count": 4
+            },
+            {
+                "color": "wavy white",
+                "count": 3
+            },
+            {
+                "color": "pale coral",
+                "count": 4
+            },
+            {
+                "color": "wavy brown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear tan",
+        "contains": [
+            {
+                "color": "clear brown",
+                "count": 4
+            },
+            {
+                "color": "dim maroon",
+                "count": 4
+            },
+            {
+                "color": "wavy purple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "striped yellow",
+        "contains": [
+            {
+                "color": "posh turquoise",
+                "count": 4
+            },
+            {
+                "color": "wavy yellow",
+                "count": 5
+            },
+            {
+                "color": "muted bronze",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "clear lavender",
+        "contains": [
+            {
+                "color": "striped lime",
+                "count": 1
+            },
+            {
+                "color": "dim chartreuse",
+                "count": 4
+            },
+            {
+                "color": "dim tan",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "shiny white",
+        "contains": [
+            {
+                "color": "bright brown",
+                "count": 4
+            },
+            {
+                "color": "dull indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "drab blue",
+        "contains": [
+            {
+                "color": "bright gold",
+                "count": 2
+            },
+            {
+                "color": "faded beige",
+                "count": 3
+            },
+            {
+                "color": "dark lime",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "posh violet",
+        "contains": [
+            {
+                "color": "clear brown",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "light gold",
+        "contains": [
+            {
+                "color": "shiny purple",
+                "count": 2
+            },
+            {
+                "color": "mirrored bronze",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dull turquoise",
+        "contains": [
+            {
+                "color": "dull silver",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "vibrant cyan",
+        "contains": [
+            {
+                "color": "wavy lavender",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "dotted violet",
+        "contains": [
+            {
+                "color": "vibrant violet",
+                "count": 5
+            },
+            {
+                "color": "vibrant blue",
+                "count": 5
+            },
+            {
+                "color": "dim violet",
+                "count": 1
+            },
+            {
+                "color": "wavy cyan",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "drab olive",
+        "contains": [
+            {
+                "color": "dotted aqua",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "wavy beige",
+        "contains": [
+            {
+                "color": "mirrored lavender",
+                "count": 3
+            },
+            {
+                "color": "posh white",
+                "count": 2
+            },
+            {
+                "color": "bright fuchsia",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "bright blue",
+        "contains": [
+            {
+                "color": "drab indigo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "wavy gold",
+        "contains": [
+            {
+                "color": "shiny orange",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "color": "striped fuchsia",
+        "contains": [
+            {
+                "color": "striped chartreuse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "posh red",
+        "contains": [
+            {
+                "color": "vibrant tomato",
+                "count": 4
+            },
+            {
+                "color": "dark maroon",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "color": "faded plum",
+        "contains": [
+            {
+                "color": "drab indigo",
+                "count": 2
+            },
+            {
+                "color": "bright turquoise",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "color": "dull plum",
+        "contains": [
+            {
+                "color": "vibrant magenta",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "dotted gold",
+        "contains": [
+            {
+                "color": "striped maroon",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "color": "dotted brown",
+        "contains": [
+            {
+                "color": "vibrant brown",
+                "count": 1
+            },
+            {
+                "color": "vibrant crimson",
+                "count": 2
+            },
+            {
+                "color": "striped purple",
+                "count": 2
+            },
+            {
+                "color": "striped olive",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "color": "pale lavender",
+        "contains": [
+            {
+                "color": "wavy fuchsia",
+                "count": 5
+            },
+            {
+                "color": "wavy lavender",
+                "count": 5
+            }
+        ]
+    }
+]
